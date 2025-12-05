@@ -1,6 +1,0 @@
-STRINGTABLE multipass_aienhancer
-{
-    multipass_aienhancer "";
-    CORONA_MULTIPASS_AIENHANCER_NOTE "Provides data that are used to guide the AI enhancement process; contains Z-depth data, material ID and instance ID. If a separate ZDepth pass is present, it provides the Z-Depth data instead and the user can set a more fitting distance range there. Otherwise the camera clipping distances are used if available.";
-    CORONA_MULTIPASS_AIENHANCER_DISABLED_NOTE "NOTE: AI features are currently disabled, AI enhancement will not be available in Corona VFB.";
-}

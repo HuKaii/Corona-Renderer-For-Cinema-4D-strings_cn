@@ -1,9 +1,0 @@
-STRINGTABLE multipass_lightselect
-{
-    multipass_lightselect "Light Selection";
-    CORONA_MULTIPASS_LIGHTSELECT_MODE "";
-    CORONA_MULTIPASS_LIGHTSELECT_MODE_INCLUDE_LIST "Include specific light sources";
-    CORONA_MULTIPASS_LIGHTSELECT_MODE_REST "Include lights not assigned to other LightSelect elements";
-    CORONA_MULTIPASS_LIGHTSELECT_INEXCLUDE "";
-    CORONA_MULTIPASS_LIGHTSELECT_INEXCLUDE_RECURSIVE "Include children";
-}

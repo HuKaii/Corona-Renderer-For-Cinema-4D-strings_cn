@@ -1,8 +1,0 @@
-STRINGTABLE multipass_virtualbeauty
-{
-    multipass_virtualbeauty "";
-
-    CORONA_MULTIPASS_VIRTUALBEAUTY_DENOISE_AMOUNT "Denoise amount";
-    CORONA_MULTIPASS_VIRTUALBEAUTY_APPLY_BLOOM "Apply bloom";
-    CORONA_MULTIPASS_VIRTUALBEAUTY_APPLY_GLARE "Apply glare";
-}

@@ -1,5 +1,0 @@
-STRINGTABLE multipass_uvw
-{
-    multipass_uvw "";
-    CORONA_MULTIPASS_UVW_CHANNEL_ID "Channel ID";
-}

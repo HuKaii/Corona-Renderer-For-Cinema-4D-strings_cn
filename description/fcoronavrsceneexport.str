@@ -1,9 +1,0 @@
-STRINGTABLE Fcoronavrsceneexport
-{
-    Fcoronavrsceneexport "Corona VrScene export";
-
-    CORONA_VRSCENEEXPORT_GROUP_OUTPUT "";
-    CORONA_VRSCENEEXPORT_GENERATE_VANTAGE "Include Vantage configuration";
-    CORONA_VRSCENEEXPORT_START_VANTAGE "Open exported scene in Vantage";
-    CORONA_VRSCENEEXPORT_KEEP_ORIGINAL_ASSETS "Skip asset collection (link original assets)";
-}

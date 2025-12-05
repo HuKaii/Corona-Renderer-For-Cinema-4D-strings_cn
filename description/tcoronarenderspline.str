@@ -1,8 +1,0 @@
-STRINGTABLE Tcoronarenderspline
-{
-    Tcoronarenderspline "Render Spline";
-    CORONA_RENDERSPLINE_ENABLED "Render";
-    CORONA_RENDERSPLINE_WIDTH "Width";
-    CORONA_RENDERSPLINE_WIDTH_SPLINE "Spline";
-    CORONA_RENDERSPLINE_RENDER_AS_PLANE "Render as plane";
-}

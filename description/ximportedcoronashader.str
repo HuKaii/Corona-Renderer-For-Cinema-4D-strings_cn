@@ -1,5 +1,0 @@
-STRINGTABLE Ximportedcoronashader
-{
-    Ximportedcoronashader "Imported Corona Shader";
-    CORONA_IMPORTED_SHADER_INFO "This is immutable shader imported from internal representation of Chaos Corona.";
-}

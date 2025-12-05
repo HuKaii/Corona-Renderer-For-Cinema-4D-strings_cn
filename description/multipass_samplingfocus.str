@@ -1,7 +1,0 @@
-STRINGTABLE multipass_samplingfocus
-{
-    multipass_samplingfocus "";
-    
-    CORONA_MULTIPASS_SAMPLINGFOCUS_MULTIPLIER "Value";
-    CORONA_MULTIPASS_SAMPLINGFOCUS_RELATIVE "Relative";
-}

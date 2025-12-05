@@ -1,8 +1,0 @@
-STRINGTABLE multipass_config
-{
-    multipass_config "";
-    CORONA_MULTIPASS_ENABLE "Enable multi-pass";
-    CORONA_MULTIPASS_BACKGROUND_PASS "Separate background in picture viewer";
-    CORONA_MULTIPASS_DISABLE_SHADING "Render only masks (disable shading)";
-    CORONA_MULTIPASS_SETUP_LIGHTMIX "Setup interactive LightMix";
-}

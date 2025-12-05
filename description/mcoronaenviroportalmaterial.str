@@ -1,8 +1,0 @@
-STRINGTABLE Mcoronaenviroportalmaterial
-{
-    Mcoronaenviroportalmaterial "Corona Portal Material";
-
-    CORONA_PORTALMTL_INFO "Info";
-    ID_CORONA_PORTALMTL_INFO "Info";
-    CORONA_PORTALMTL_NOTE "Portal materials were deprecated in Corona V6 and are no longer used, objects with portal materials are ignored.";
-}
