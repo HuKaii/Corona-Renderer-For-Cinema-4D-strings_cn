@@ -1,0 +1,5 @@
+{
+  "name": "Corona C4D 翻译工具",
+  "description": "专为 Corona Renderer for Cinema 4D 设计的语言文件翻译与 Unicode 转码工具。支持 .str 文件解析、AI 智能翻译及格式化导出。",
+  "requestFramePermissions": []
+}
